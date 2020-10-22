@@ -28,7 +28,7 @@ Please read this privacy notice carefully as it will help you understand what we
 12. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
-In short: The game application is automatically not set up to a collect any viable, Identificable infromation.
+In short: The game application is automatically not set up to a collect any viable or Identificable infromation.
 
 ## 2. HOW DO WE USE YOUR INFORMATION?
 
